@@ -15,7 +15,7 @@
 
 </h3>
 
-![Banner](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
+
 
 ## **:rocket: OBJETIVO**
 
