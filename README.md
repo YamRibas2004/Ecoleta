@@ -23,7 +23,7 @@ Ecoleta is a **Open Source** project developed in the week **Next Level Week (1.
 The project aims to **establish a connection** between **companies and / or entities that collect waste** (organic and inorganic) **to people and / or entities that constantly need to dispose of this waste**. Solving a major recurring problem that is **inappropriate waste disposal**, facilitating the recycling and reuse process.
 
 
-## **:star2: AGRADECIMENTOS**
+## **:star2: THANKS**
 
 <div align=center>
 
