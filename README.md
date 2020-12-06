@@ -11,7 +11,8 @@
 
 <h3 align="center">
 
-♻️ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]**.
+♻️ 
+Ecoleta is a ** Open Source ** project developed in the week ** Next Level Week (1.0) ** by**[Rocketseat][rocketseat_site]**.
 
 </h3>
 
