@@ -18,15 +18,9 @@ Ecoleta is a **Open Source** project developed in the week **Next Level Week (1.
 
 
 
-## **:rocket: OBJETIVO**
+## **:rocket: OBJECTIVE**
 
-O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou entidades que coletam resíduos** (orgânicos e inorgânicos) **às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos**. Solucionando um grande problema recorrente que é o **descarte inadequado do lixo**, facilitando o processo de recliclagem e reutilização.
-
-<!-- 
-  ...
-  Local Reservado para o GIF do projeto rodando.
-  ...
--->
+The project aims to **establish a connection** between **companies and / or entities that collect waste** (organic and inorganic) **to people and / or entities that constantly need to dispose of this waste**. Solving a major recurring problem that is **inappropriate waste disposal**, facilitating the recycling and reuse process.
 
 
 ## **:star2: AGRADECIMENTOS**
